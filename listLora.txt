@@ -1,3 +1,4 @@
 Makima -> https://civitai.com/api/download/models/25726 -> makima.safetensors
 Ao dai -> https://civitai.com/api/download/models/110573 -> aodai.safetensors
 Japan Vibes - Film color -> https://civitai.com/api/download/models/107032 -> JPfilmColor_Heavy_grain.safetensors
+LEOSAM's FilmGirl Grain -> https://civitai.com/api/download/models/112969 -> FilmVelvia3.safetensors
