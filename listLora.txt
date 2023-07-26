@@ -1,0 +1,2 @@
+Makima -> https://civitai.com/api/download/models/25726 -> makima.safetensors
+Ao dai -> https://civitai.com/api/download/models/110573 -> aodai.safetensors
