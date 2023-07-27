@@ -3,3 +3,4 @@ ChilloutMix -> https://civitai.com/api/download/models/11745?type=VAE
 majicMIX realistic v6 -> https://civitai.com/api/download/models/94640
 XXMix_9realistic v4 -> https://civitai.com/api/download/models/102222
 Realisian -> https://civitai.com/api/download/models/57673
+AsianRealistic_SDLife_Chiasedamme -> https://civitai.com/api/download/models/123313
