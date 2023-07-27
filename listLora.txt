@@ -4,3 +4,4 @@ Japan Vibes - Film color -> https://civitai.com/api/download/models/107032 -> JP
 LEOSAM's FilmGirl Grain -> https://civitai.com/api/download/models/112969 -> FilmVelvia3.safetensors
 Detail Tweaker -> https://civitai.com/api/download/models/62833
 Add More Details -> https://civitai.com/api/download/models/87153
+Ao Dai -> https://civitai.com/api/download/models/121093
